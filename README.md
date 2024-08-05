@@ -2,7 +2,7 @@
     🏆 Senior Software Engineer ✍
 </h1>
 
-  **montedev** is a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, **montedev** incorporates the latest industry trends and best practices. Through continuous learning and exploration, **montedev** transforms ideas into reality, showcasing the power of technological advancements in the digital realm
+  **montedev** is a dedicated Blockchain developer & IT Engineer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, **montedev** incorporates the latest industry trends and best practices. Through continuous learning and exploration, **montedev** transforms ideas into reality, showcasing the power of technological advancements in the digital realm
 
 <h3> My key skills</h3>
       <ul>
