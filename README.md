@@ -7,7 +7,7 @@
 <h3> My key skills</h3>
       <ul>
         <li>*Web design and Fronend Develpment* with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.</li>
-        <li>*Backend Development* with Laravel, Node.JS, GraphQL, Golang, .NET, Flask, Django, AWS, GCP.</li>
-        <li>*Blockchain Development* (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, Trading Bot etc)</li>
-        <li>*Game Development* with web3 game, trading game, telegram game bot(like **Hamster Kombat**), Unity game </li>
+        <li>*Backend Development* with Node.JS, Golang, Laravel,.NET, Flask, Django, AWS, GCP, GraphQL, Postgresql.</li>
+        <li>*Blockchain Development* Smart Contract with Solidity & Rust, Dex, Defi, cosmos-SDK, Defin, cross-chain, and Crypto Trading Bot etc.</li>
+        <li>*Game Development* with web3 game, trading game, telegram Tap To Earn Game(like **Hamster Kombat**), Unity game </li>
       </ul>
