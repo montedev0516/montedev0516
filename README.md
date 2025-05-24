@@ -11,5 +11,4 @@
 - **Blockchain Development** Ethereum, Solana, Sui, Dex, Defi, Defin, cross-chain, Crypto Trading Bot.
 - **Desktop App Development** with ElectronJS, Tauri, PyQT, QT etc.
 - **AI Chatbot and AI Development** with RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.
-- **Bot Development** in Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Automation tools.
 
